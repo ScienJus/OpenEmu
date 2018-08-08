@@ -24,7 +24,7 @@
 	url = git@github.com:OpenEmu/Nestopia-Core.git
 [submodule "SNES9x"]
 	path = SNES9x
-	url = git@github.com:OpenEmu/SNES9x-Core.git
+	url = git@github.com:ScienJus/SNES9x-Core.git
 [submodule "UME"]
 	path = UME
 	url = git@github.com:OpenEmu/UME-Core.git
